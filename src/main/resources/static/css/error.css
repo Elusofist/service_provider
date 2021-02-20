@@ -1,0 +1,17 @@
+#errImg {
+    /*text-align: center;*/
+    padding-top: 100px;
+    /*justify-content: center;*/
+    padding-left: 35%;
+    align-items: center;
+    /*width: 60%;*/
+}
+
+#errMsg {
+    align-items: center;
+    padding-top: 70px;
+    padding-right: 30%;
+    padding-left: 30%;
+    color: indianred;
+    text-align: center;
+}

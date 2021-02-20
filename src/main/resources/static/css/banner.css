@@ -1,0 +1,22 @@
+#banner{
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    align-content: center;
+    flex: fit-content;
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 50vh;
+}
+
+#search-btn {
+    position: absolute;
+    /*bottom: 5px;*/
+    left: 26%;
+    top: 15%;
+    margin-left: -104.5px;
+}
+
+
+

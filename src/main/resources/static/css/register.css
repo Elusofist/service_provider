@@ -1,0 +1,23 @@
+#customerReg {
+    padding-top: 100px;
+    padding-right: 10%;
+}
+
+#pass-warning {
+    color: indianred;
+}
+
+#regBanner {
+    align-items: flex-end;
+    width: 60%;
+}
+
+#regBtn {
+    text-align: center;
+    padding-right: 30%;
+}
+
+.passVal {
+    padding-left: 30%;
+    padding-top: 15%;
+}

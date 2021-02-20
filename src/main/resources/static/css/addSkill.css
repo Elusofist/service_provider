@@ -1,0 +1,25 @@
+#addSkill {
+    margin-top: 1px;
+    margin-left: 2px;
+    position: absolute;
+    top: 15%;
+    left: 7%;
+}
+
+#skillTable {
+    padding-top: 100px;
+    direction: rtl;
+    padding-right: 10%;
+    /*width: 60%;*/
+    height: 100%;
+}
+
+#categoryTable {
+    padding-top: 100px;
+    padding-right: 10%;
+}
+
+.color {
+    color: red;
+}
+

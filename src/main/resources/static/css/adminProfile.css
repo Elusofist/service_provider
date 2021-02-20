@@ -1,0 +1,8 @@
+.sideNav {
+    width: 20%;
+    height: 100%;
+    direction: rtl;
+    padding-top: 70px;
+    text-align: justify;
+    background-color: lemonchiffon;
+}
